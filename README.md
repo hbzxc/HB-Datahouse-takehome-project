@@ -1,18 +1,22 @@
 
 
 
+
 # Compatibility Predictor
 Take home project for Datahouse to determined new applicant compatibility scores.
 Input and output in JSON
 Compatibility scores fall in a range from 0 to 1
 
 ## Setup
-- Project running on Python 3.10.11
-- Every module used is built into python
+ - Project running on Python 3.10.11
+ - Every module used is built into python
 	- JSON
 	- OS
 	- Sys
 	- Unittest
+	
+ - JSON file with the sample data labled "sample_data.json" should be in the same directory as the script
+ - Output will be to the folder "Results" and called "scoredApplicants_Results.json"
 
 ## How compatibility is determined
 -Find the lowest attribute(s) of the current team members and select candidates to fill in those gaps
