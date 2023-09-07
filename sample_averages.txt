@@ -1,0 +1,16 @@
+Team
+Eddie average: 0.25  10/40
+
+Will average : 0.5   20/40
+
+Mike average : 0.475 19/40
+
+Applicants
+John average : 0.3   12/40
+
+Jane Average : 0.4   16/40
+
+Joe Average  : 0.325 13/40
+
+python 3.10.11
+
