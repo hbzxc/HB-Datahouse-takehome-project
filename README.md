@@ -80,7 +80,8 @@ I wrote 3 tests to check the 3 functions I included
 | strength | 4 |
 | endurance | 5 |
 | spicyFoodTolerance | 1 |
-Should return: spicyFoodTolerance
+
+expected return: spicyFoodTolerance
 
 | Attribute|score |
 |--|--|
@@ -88,7 +89,8 @@ Should return: spicyFoodTolerance
 | strength | 4 |
 | endurance | 5 |
 | spicyFoodTolerance | 1 |
-Should return: intelligence, spicyFoodTolerance
+
+expected return: intelligence, spicyFoodTolerance
 
 3. Check get_results function. Should return the lowest attribute(s) over 10
 
